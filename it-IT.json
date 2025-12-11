@@ -1,0 +1,27 @@
+
+{
+  "locale": "it-IT",
+  "strings": {
+    "tx1": "Clicca sulla lente d'ingrandimento",
+    "tx2": "Digita: explorer",
+    "tx3": "Clicca su: PI System Explorer",
+    "tx4": "Clicca su library",
+    "tx5": "Clicca sul segno + a sinistra di: Tables",
+    "tx6": "Clicca su: 00_MASTER Configuration - Centerline Variable Enable Selection",
+    "tx7": "Clicca su table",
+    "tx8": "Questa tabella contiene tutte le ricette e tutte le variabili controllate in ogni ricetta di ogni macchina.",
+    "tx9": "Fai molta attenzione quando modifichi questa tabella!!! Controlla tutte le variabili di tutte le macchine della fabbrica. Modifiche errate possono compromettere la conformità e influenzare il funzionamento del centro di controllo delle altre macchine.",
+    "tx10": "Fai doppio clic sulla stessa riga",
+    "tx11": "Cerca la variabile AS3 GPD Mechanical Fastener nella stessa riga della ricetta Máxima Proteção XG e clicca sul numero “1” di quella riga.",
+    "tx12": "Clicca su Check In",
+    "tx13": "Fatto! Ora la variabile è stata disabilitata; l’aggiornamento in PI Vision può richiedere fino a 30 minuti; se la macchina è ferma, può richiedere più tempo.",
+    "tx14": "Formazione completata! Se hai bisogno di supporto, contatta lo sviluppatore Robson Souza E-mail: robson.souza1@kcc.com. Puoi chiudere questa pagina o tornare alla schermata iniziale e fare un altro corso.",
+    "tx15": "Questa formazione simula il sistema per garantire l'efficacia dell'apprendimento.",
+    "tx16": "Disattiviamo l'AD3-FL-1",
+    "tx17": "In questo training imparerai a disattivare le variabili che non vengono utilizzate in determinate ricette.\n\nAd esempio: nella ricetta Pannolino Máxima Proteção XG, la FB17 non utilizza la variabile AS3 GPD Mechanical Fastener. Come mostrato nell’immagine seguente, ciò può causare un errore di calcolo.\n\nDurante il training imparerai come attivare e disattivare queste variabili in base a ciascuna ricetta.",
+    "tx_proximo": "Ho capito",
+    "tx18": "Clicca di nuovo, digita 0 e premi invio",
+    "tx19": "",
+    "tx20": ""
+  }
+}

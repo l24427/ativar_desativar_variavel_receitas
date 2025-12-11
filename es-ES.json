@@ -1,0 +1,27 @@
+
+{
+  "locale": "es-ES",
+  "strings": {
+    "tx1": "Haz clic en la lupa",
+    "tx2": "Escribe: explorer",
+    "tx3": "Haz clic en: PI System Explorer",
+    "tx4": "Haz clic en library",
+    "tx5": "Haz clic en el signo + a la izquierda de: Tables",
+    "tx6": "Haz clic en: 00_MASTER Configuration - Centerline Variable Enable Selection",
+    "tx7": "Haz clic en table",
+    "tx8": "Esta tabla contiene todas las recetas y todas las variables que se controlan en cada receta de cada máquina.",
+    "tx9": "¡Mucho cuidado al editar esta tabla! Controla todas las variables de todas las máquinas de la fábrica. Cambios incorrectos pueden comprometer la conformidad y afectar el funcionamiento del centro de control de las demás máquinas.",
+    "tx10": "Haz doble clic en la misma fila",
+    "tx11": "Busca la variable AS3 GPD Mechanical Fastener en la misma fila de la receta Máxima Proteção XG y haz clic en el número “1” de esa fila.",
+    "tx12": "Haz clic en Check In",
+    "tx13": "¡Listo! Ahora la variable ha sido deshabilitada; puede tardar hasta 30 minutos en actualizarse en PI Vision; si la máquina está parada, puede tardar más.",
+    "tx14": "¡Entrenamiento completado! Si necesitas soporte, contacta al desarrollador Robson Souza. Correo: robson.souza1@kcc.com. Puedes cerrar esta página o volver a la pantalla inicial y realizar otro entrenamiento.",
+    "tx15": "Este entrenamiento simula el sistema para garantizar la eficacia del aprendizaje.",
+    "tx16": "Vamos a desactivar el AD3-FL-1",
+    "tx17": "En este entrenamiento aprenderás a desactivar variables que no se utilizan en determinadas recetas.\n\nPor ejemplo: en la receta de Pañal Máxima Proteção XG, la FB17 no utiliza la variable AS3 GPD Mechanical Fastener. Como se muestra en la siguiente imagen, esto puede causar un error de cálculo.\n\nDurante el entrenamiento aprenderás cómo activar y desactivar estas variables según cada receta.",
+    "tx_proximo": "Entendido",
+    "tx18": "Haz clic nuevamente, escribe 0 y presiona enter",
+    "tx19": "",
+    "tx20": ""
+  }
+}

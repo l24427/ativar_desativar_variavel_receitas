@@ -1,0 +1,27 @@
+
+{
+  "locale": "zh-CN",
+  "strings": {
+    "tx1": "点击放大镜",
+    "tx2": "输入：explorer",
+    "tx3": "点击：PI System Explorer",
+    "tx4": "点击 library",
+    "tx5": "点击左侧的 + 号：Tables",
+    "tx6": "点击：00_MASTER Configuration - Centerline Variable Enable Selection",
+    "tx7": "点击 table",
+    "tx8": "此表包含所有配方以及每台机器中每个配方控制的所有变量。",
+    "tx9": "编辑此表时请务必小心！！！它控制工厂中所有机器的所有变量。错误的更改可能会影响合规性并影响其他机器的控制中心运行。",
+    "tx10": "双击同一行",
+    "tx11": "在配方 Máxima Proteção XG 的同一行中找到变量 AS3 GPD Mechanical Fastener，并点击该行的数字“1”。",
+    "tx12": "点击 Check In",
+    "tx13": "完成！现在变量已被禁用，更新到 PI Vision 可能需要长达 30 分钟；如果机器停机，可能需要更长时间。",
+    "tx14": "培训完成！如果需要支持，请联系开发人员 Robson Souza，邮箱：robson.souza1@kcc.com。您可以关闭此页面或返回主页进行其他培训。",
+    "tx15": "此培训模拟系统以确保学习效果。",
+    "tx16": "我们将禁用 AD3-FL-1",
+    "tx17": "在本次培训中，您将学习如何禁用在特定配方中未使用的变量。\n\n例如：在“尿裤 Máxima Proteção XG”配方中，FB17 不使用变量 AS3 GPD Mechanical Fastener。如下图所示，这可能会导致计算错误。\n\n在培训过程中，您将学习如何根据每个配方启用和禁用这些变量。",
+    "tx_proximo": "明白了",
+    "tx18": "再次点击，输入 0 并按回车",
+    "tx19": "",
+    "tx20": ""
+  }
+}

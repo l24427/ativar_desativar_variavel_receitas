@@ -1,0 +1,27 @@
+
+{
+  "locale": "en-US",
+  "strings": {
+    "tx1": "Click the magnifying glass",
+    "tx2": "Type: explorer",
+    "tx3": "Click: PI System Explorer",
+    "tx4": "Click library",
+    "tx5": "Click the + sign on the left of: Tables",
+    "tx6": "Click: 00_MASTER Configuration - Centerline Variable Enable Selection",
+    "tx7": "Click table",
+    "tx8": "This table contains all recipes and all variables controlled in each recipe for each machine.",
+    "tx9": "Be very careful when editing this table! It controls all variables of all machines in the factory. Incorrect changes can compromise compliance and affect the control center operation of other machines.",
+    "tx10": "Double-click the same row",
+    "tx11": "Find the variable AS3 GPD Mechanical Fastener in the same row as the Máxima Proteção XG recipe and click the number “1” in that row.",
+    "tx12": "Click Check In",
+    "tx13": "Done! The variable is now disabled; it may take up to 30 minutes to update in PI Vision, and if the machine is stopped, it may take longer.",
+    "tx14": "Training completed! If you need support, contact the developer Robson Souza. Email: robson.souza1@kcc.com. You can close this page or return to the home screen and start another training.",
+    "tx15": "This training simulates the system to ensure learning effectiveness.",
+    "tx16": "Let's disable AD3-FL-1",
+    "tx17": "In this training, you will learn how to disable variables that are not used in certain recipes.\n\nFor example: in the Diaper Máxima Proteção XG recipe, FB17 does not use the AS3 GPD Mechanical Fastener variable. As shown in the following image, this can cause a calculation error.\n\nDuring the training, you will learn how to enable and disable these variables according to each recipe.",
+    "tx_proximo": "Got it",
+    "tx18": "Click again, type 0 and press enter",
+    "tx19": "",
+    "tx20": ""
+  }
+}

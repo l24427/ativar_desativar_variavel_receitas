@@ -1,0 +1,28 @@
+{
+	"locale": "pt-BR",
+	"strings": {
+		"tx1": "Clique na lupa",
+		"tx2": "Digite: explorer",
+		"tx3": "Clique em: PI System Explorer",
+		"tx4": "Clique em library",
+		"tx5": "Clique no sinal de + ao lado esquerdo de: Tables",
+		"tx6": "Clique em: 00_MASTER Configuration - Centerline Variable Enable Selection",
+		"tx7": "Clique em table",
+		"tx8": "Esta tabela contém todas as receitas e todas as variáveis que são controladas em cada receita de cada máquina.",
+		"tx9": "Muito cuidado ao editar esta tabela!!! Ela controla todas as variáveis de todas as máquinas da fábrica. Alterações incorretas podem comprometer a conformidade e afetar o funcionamento da central de controle das demais máquinas.",
+		"tx10": "Clique duas vezes na mesma linha",
+		"tx11": "Procure pela variável AS3 GPD Mechanical Fastener na mesma linha da receita Máxima Proteção XG e clique no número “1” dessa linha.",
+		"tx12": "Clique em Check In",
+		"tx13": "Pronto Agora a variavel foi desabilitada, pode levar até 30 minutos para atualizar no pi vision, se a máquina estiver parada pode levar mais tempo.",
+		"tx14": "Treinamento concluido! Se precisar de suporte, entre em contato com o desenvolvedor Robson Souza E-mail: robson.souza1@kcc.com. Você pode fechar essa página ou voltar a tela inicial e realizar outro treinamento",
+		"tx15": "Este treinamento simula o sistema para garantir a eficácia do aprendizado.",
+		"tx16": "Vamos desativar o AD3-FL-1",
+		"tx_17": "Nesse treinamento, você aprenderá a desativar variáveis que não são utilizadas em determinadas receitas.Por exemplo: na receita Fralda Máxima Proteção XG, a FB17 não utiliza a variável AS3 GPD Mechanical Fastener. Conforme mostrado na imagem a seguir, isso pode causar um erro de cálculo. Durante o treinamento, você vai aprender como ativar e desativar essas variáveis de acordo com cada receita.",
+		"tx_proximo": "Entendi",
+		"tx18": "Clique novamente, digite 0 e aperte enter",
+		"tx19": "",
+		"tx20": ""
+		
+
+	}
+}
